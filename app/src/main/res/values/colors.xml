@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Basic Color      -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    Pallette Food    -->
+    <color name="Peach">#DFA67B</color>
+    <color name="Beige">#F4B183</color>
+    <color name="Yellow">#FFD966</color>
+    <color name="Cream">#FFF2CC</color>
+
+    <!--    Pallette Food    -->
+    <color name="dark_Brown">#7D5A50</color>
+    <color name="Brown">#B4846C</color>
+    <color name="dark_Beige">#E5B299</color>
+    <color name="light_Cream">#FCDEC0</color>
+
+</resources>

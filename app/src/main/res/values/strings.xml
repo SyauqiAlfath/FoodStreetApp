@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food Street</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="food_price">Rentang Harga</string>
+    <string name="food_rating">Rating</string>
+    <string name="food_description">Deksripsi</string>
+</resources>
